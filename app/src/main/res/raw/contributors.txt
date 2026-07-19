@@ -6,24 +6,24 @@ Allan Nordhøy
 Heimen Stoffels
 Oğuz Ersen
 FC (Fay) Stegerman
-StoyanDimitrov
 B o d o
+StoyanDimitrov
 大王叫我来巡山
 SlavekB
-Katharine Chui
+Katharine Chui / Katie
 mondstern
 IllusiveMan196
 Silvério Santos
+Максим Горпиніч
 Edgars Andersons
 Altonss
 Joel A
 Michael Moroni
-Priit Jõerüüt
 Liner Seven
-Eric
+Priit Jõerüüt
 Fjuro
-Максим Горпиніч
 GitSpoon
+Eric
 GM
 Petr Novák
 laralem
@@ -40,18 +40,18 @@ Kachelkaiser
 Giovanni Donisi
 Milo Ivir
 HudobniVolk
-Горпиніч Максим Олександрович
 Jiri Grönroos
 Warder
 Samantaz Fox
 Balázs Meskó
 109247019824
-Feike Donia
+Feike
 Arno-github
 Ankit Tiwari
 Cliff Heraldo
 Sergio Paredes
 Jose Delvani
+damjang
 mdvhimself
 Milan Šalka
 AMIR-G98
@@ -60,7 +60,6 @@ Robin
 huuhaa
 Skrripy
 Govindgopalyadav
-damjang
 waffshappen
 Marnick L'Eau
 ngocanhtve
@@ -90,11 +89,11 @@ Virginie
 Tim Trek
 Peter Dave Hello
 Alì Mortacci
-MisterCosta96
+Andre Costa
 arshbeerSingh
 Augustin LAVILLE
 Freddo espresso
-Vasudev R.
+Govind S Nair
 Kim Seohyun
 echo r"0xX4H" | rev
 rudy3
